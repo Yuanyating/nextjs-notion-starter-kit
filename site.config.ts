@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Test Notion Block',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://understood-rose-228.notion.site/FE-72bf253485cf4c3c90cabce2d4956ac3',
   author: 'DaShuiGuaiii',
 
   // open graph metadata (optional)
